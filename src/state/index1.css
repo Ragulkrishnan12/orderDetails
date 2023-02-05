@@ -1,0 +1,17 @@
+.Counter111 {
+    background-color: rgb(58, 242, 242);
+    width: 300px;
+    margin: 2rem;
+    padding: 20px;
+    border: 2px solid black;
+
+
+}
+
+.just {
+    justify-content: space-around;
+}
+
+.flex {
+    display: flex;
+}

@@ -1,0 +1,11 @@
+.OderListBodyContainer1 {
+    margin: 2rem;
+    background-color: rgba(231, 231, 223, 0.963);
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.flex {
+    display: flex;
+}
